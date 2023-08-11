@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antonio or Tony if you prefer</h1>
+<h1 align="center">Hi 👋, I'm Tony </h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
 - 🌱 I’m currently learning **NextJs, Algorithms and Data Structures**
